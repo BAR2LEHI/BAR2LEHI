@@ -8,4 +8,4 @@
 </div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="py"  width="40" height="40" />&nbsp;
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="dj"  width="40" height="40" />&nbsp;      
