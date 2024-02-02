@@ -7,7 +7,7 @@
   </h3>
 </div>
 <a href="https://t.me/bar_2_les">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="50" height="50" alt="Telegram" />
 </a>
 
 ## My skills and tools
