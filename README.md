@@ -6,6 +6,9 @@
     Python-разработчик 1.5 года
   </h3>
 </div>
+<a href="https://t.me/bar_2_les">
+  <img src="https://www.flaticon.com/ru/free-icon/telegram_2111646" alt="Telegram" />
+</a>
 
 ## My skills and tools
 <div>
