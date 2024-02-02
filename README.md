@@ -6,6 +6,8 @@
     Python-разработчик 1.5 года
   </h3>
 </div>
+
+## My skills and tools
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="py"  width="60" height="60" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="dj"  width="60" height="60" />&nbsp;
