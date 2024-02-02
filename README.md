@@ -7,7 +7,7 @@
   </h3>
 </div>
 <a href="https://t.me/bar_2_les">
-  <img src="https://www.flaticon.com/ru/free-icon/telegram_2111646" alt="Telegram" />
+  <img src="https://img.shields.io/badge/Telegram" alt="Telegram" />
 </a>
 
 ## My skills and tools
