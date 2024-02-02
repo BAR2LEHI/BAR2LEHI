@@ -9,7 +9,7 @@
 
 <div id="social" align="center">
   <a href="https://t.me/bar_2_les">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="50" height="50" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" width="50" height="50" alt="Telegram" />
   </a>
 </div>
 
